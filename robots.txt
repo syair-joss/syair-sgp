@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-joss.github.io/syair-sgp/sitemap.xml
